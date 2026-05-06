@@ -208,7 +208,7 @@ The application will display:
 # 🚀 Future Improvements
 
 - ❤️ Favorite quotes system
-- 🌙 Dark mode 
+- 🌙 Light mode/Dark mode toggle
 - 🔄 Infinite scrolling
 - 🎲 AI-generated quotes
 - 📤 Social sharing support
