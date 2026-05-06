@@ -27,6 +27,12 @@ The application fetches inspirational quotes dynamically from the FreeAPI Quotes
 
 ---
 
+# 🚀 Live Demo
+
+👉 https://free-api-quotes-listing-app.vercel.app/
+
+---
+
 # 🛠️ Tech Stack
 
 - HTML5
